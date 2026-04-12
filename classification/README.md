@@ -32,8 +32,6 @@ python main.py --model rct_net
 python main_scan.py --model rct_net
 ```
 
-pretrained model:
-链接: https://pan.baidu.com/s/1AACLUoF0OzWM9trT9vG0hg?pwd=98jd 提取码: 98jd
 
 
 
