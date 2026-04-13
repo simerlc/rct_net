@@ -1,1 +1,2 @@
-
+TRAIN:
+python pcdseg.py
